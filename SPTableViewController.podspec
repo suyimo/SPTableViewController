@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
 
 
   s.name         = "SPTableViewController"
-  s.version      = "0.0.2"
+  s.version      = "0.0.4"
   s.summary      = "A tableview used on iOS."
 
   s.description  = <<-DESC
