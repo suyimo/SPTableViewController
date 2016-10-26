@@ -9,7 +9,6 @@
 
 #import "SPBaseTableViewCell.h"
 
-
 @interface SPTableViewController : UIViewController<UITableViewDataSource,UITableViewDelegate,SPBaseTableViewCellDelegate>
 
 @property (nonatomic, strong) NSMutableArray *dataArray;

@@ -11,7 +11,6 @@
 @implementation SPBaseTableViewCell
 
 - (void)awakeFromNib {
-    // Initialization code
     [super awakeFromNib];
 }
 
